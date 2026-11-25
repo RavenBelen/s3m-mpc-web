@@ -38,9 +38,9 @@ function Header() {
       )}
 
       <div className="masthead container">
-        <Link className="brand" to="/" onClick={closeMenus} aria-label="S3M MPC home">
+        <Link className="brand" to="/" onClick={closeMenus} aria-label="Sandigan ng Maligayang Mamamayan ng Makina Multi-Purpose Cooperative, S3M MPC home">
           <BrandMark />
-          <span className="brand-copy"><strong>S3M MPC</strong><small>Multi-Purpose Cooperative</small></span>
+          <span className="brand-copy"><strong>Sandigan ng Maligayang</strong><strong>Mamamayan ng Makina</strong><small>Multi-Purpose Cooperative · S3M MPC</small></span>
         </Link>
         <div className="masthead-note"><span className="masthead-line">People. Purpose. Progress.</span><span>Member-owned · Community-focused</span></div>
         <Link className="button button-yellow masthead-cta" to="/membership#how-to-join">Become a Member <span aria-hidden="true">→</span></Link>

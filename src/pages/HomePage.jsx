@@ -4,7 +4,7 @@ import InfoCards from '../components/InfoCards'
 import SectionHeading from '../components/SectionHeading'
 
 const slides = [
-  { kicker: 'S3M MULTI-PURPOSE COOPERATIVE', title: ['Stronger together.', 'Growing together.'], text: 'A member-owned cooperative creating opportunity through service, shared effort, and community.', action: 'Discover our cooperative', to: '/about' },
+  { kicker: 'S3M MULTI-PURPOSE COOPERATIVE', title: ['Reduce the Poverty.', 'Help the Community.'], text: 'A member-owned cooperative creating opportunity through service, shared effort, and community.', action: 'Discover our cooperative', to: '/about' },
   { kicker: 'MEMBERSHIP · SERVICE · COMMUNITY', title: ['A better future', 'starts with us.'], text: 'Join a community where every member has a voice and every contribution helps us move forward.', action: 'Explore membership', to: '/membership' },
   { kicker: 'BUILDING OPPORTUNITY', title: ['Working for our', 'community.'], text: 'Learn about our services, programs, and the ways we support our members and neighbors.', action: 'See what we do', to: '/services' },
 ]

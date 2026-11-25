@@ -1,6 +1,6 @@
-function InfoCards({ items }) {
+function InfoCards({ items, className = '' }) {
   return (
-    <div className="service-grid">
+    <div className={`service-grid ${className}`}>
       {items.map((item, index) => (
         <article className="service-card" id={item.id} key={item.title}>
           <span className="service-index">0{index + 1} / {item.label}</span>

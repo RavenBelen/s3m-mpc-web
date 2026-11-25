@@ -1,6 +1,6 @@
-# S3M MPC Website
+# Sandigan ng Maligayang Mamamayan ng Makina MPC Website
 
-A React website for S3M Multi-Purpose Cooperative, built with Vite and React Router.
+A React website for Sandigan ng Maligayang Mamamayan ng Makina Multi-Purpose Cooperative (S3M MPC), built with Vite and React Router.
 
 ## Run locally
 
