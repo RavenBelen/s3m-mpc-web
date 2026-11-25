@@ -1,0 +1,31 @@
+# S3M MPC Website
+
+A React website for S3M Multi-Purpose Cooperative, built with Vite and React Router.
+
+## Run locally
+
+```powershell
+npm install
+npm run dev
+```
+
+## Useful commands
+
+- `npm run dev` — start the local development server
+- `npm run lint` — check the source with Oxlint
+- `npm run build` — create the production site in `dist`
+- `npm run preview` — preview the production build locally
+
+## Pages
+
+- `/` — Home
+- `/about` — About Us
+- `/membership` — Membership
+- `/services` — Services
+- `/programs` — Programs & Livelihood
+- `/news` — News & Events
+- `/contact` — Contact Us
+
+Shared page components are in `src/components`, route content is in `src/pages`, and the navigation menu data is in `src/data/navigation.js`.
+
+Photo areas are intentionally blank until cooperative images are supplied. Replace sample copy, contact details, membership requirements, and service descriptions with approved information before publishing. The contact form is a front-end sample and needs a backend or form service to deliver messages.
